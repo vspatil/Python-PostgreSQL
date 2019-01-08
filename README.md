@@ -1,1 +1,1 @@
-This repo contains Postgres CRUD oprations using Python-Postgres Adapter Psycopg2.
+This repo contains Postgres CRUD operations using Python-Postgres Adapter Psycopg2.
