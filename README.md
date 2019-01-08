@@ -1,2 +1,1 @@
-# Python-PostgreSQL
-Postgres CRUD Operations Using Python
+This repo contains Postgres CRUD oprations using Python-Postgres Adapter Psycopg2.
